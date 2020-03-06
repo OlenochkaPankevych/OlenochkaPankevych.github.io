@@ -1,0 +1,50 @@
+main{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 60px; 
+  background-image: repeating-radial-gradient(red, red 10%, blue 15%);
+}
+h1{
+    font-family: monospace;
+    font-size: 40px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    margin-left: 80px;
+}
+#first{
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+}
+body{
+    background: red;
+    font-family: cursive;
+}
+nav{
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 5%;
+    }
+a{
+    color:white;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    color: lightblue;
+    text-shadow: 10px;
+}
+div{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: lightblue;
+    font: italic bold;
+}
+p{
+    text-indent: 20px;
+    color: #F0F8FF;
+    font-color:	#F0FFFF;
+}
